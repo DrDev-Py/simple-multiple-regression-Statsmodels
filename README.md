@@ -1,1 +1,1 @@
-# simple-multiple-regression-Statsmodels
+# Simple Multiple Regression with Statsmodels
